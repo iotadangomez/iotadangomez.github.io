@@ -1,4 +1,4 @@
-# iotadangr.github.io
+# iotadangomez.github.io
 Ejemplo de IoT con Firestore.
 
-https://iotadangr.github.io
+https://iotadangomez.github.io
