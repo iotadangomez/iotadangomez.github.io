@@ -9,7 +9,7 @@ input[type=radio]:not(:checked)~.on,
 input[type=checkbox]:not(:checked)~.on {
   display: none;
 }
-}
+
 
 .off {
   vertical-align: middle;
