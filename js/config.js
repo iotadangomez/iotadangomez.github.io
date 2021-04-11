@@ -21,7 +21,7 @@ class MiNav extends HTMLElement {
         ad_units
       </span>
         Dispositivo simulado
-      </a>;
+      </a>`;
   }
 }
 customElements.define(
