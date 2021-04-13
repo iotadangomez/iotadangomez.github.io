@@ -3,7 +3,7 @@
 const CACHE_NAME = 'iotadangomez-2.06',
   urlsToCache = [
     
-    "script.js"
+    "script.js",
     "historial.html",
   "dispositivo.html",
   ".vscode/settings.json",
