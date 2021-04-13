@@ -17,13 +17,8 @@
  * cambios en tu sitio, para
  * depués actualizar este archivo.
  */
-const CACHE = " iotadangomez-2.03";
-
-/** Archivos requeridos para que
- * la aplicación funcione fuera de
- * línea.
- */
-const ARCHIVOS = [
+const CACHE = " iotadangomez-2.03",
+      ARCHIVOS = [
  
   
   "historial.html",
